@@ -1,1 +1,1 @@
-# Huse-price-prediction
+# House-price-prediction
